@@ -1,4 +1,7 @@
 numpy
 seaborn
 pandas
+matplotlib
+ipykernel
+flask
 -e .        
